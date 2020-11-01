@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    grid-template-columns: ;
+ }
+ 
+  .grid div {
+   background-color: #28314E;
+   border: 1px solid #212941;
+   border-radius: 5px;
+   color: #ffffff;
+ }
